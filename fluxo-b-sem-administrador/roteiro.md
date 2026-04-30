@@ -384,29 +384,15 @@ Responda no relatório. Respostas concisas, com base no observado, são preferí
 ### O que entregar
 - Arquivo **`relatorio.md`** preenchido (template nesta mesma pasta).
 - Pasta **`evidencias/`** com as capturas de tela nomeadas por atividade (`atv1_sessao.png`, `atv3_post_raw.png`, etc.), incluindo a captura da Atividade 9 (redirecionamento controlado de `http://httpbin.org/...` para `https://httpbin.org/get`).
-- Arquivo **`httpbin_composer.saz`** (opcional): exportação da sessão do Composer da Atividade 3 via *File → Save → Selected Sessions*.
 
 ### Como entregar
 - Compactar a pasta do aluno em `NOME_RA_LAB_HTTP_FLUXOB.zip`.
 - Submeter no **Microsoft Teams**, atividade correspondente, até a data definida em aula.
 
-### Critérios de avaliação
-
-| Critério                                              | Peso |
-|-------------------------------------------------------|------|
-| Exatidão técnica das respostas                        | 35%  |
-| Evidências coerentes (capturas legíveis e pertinentes) | 20%  |
-| Profundidade da análise das questões de verificação   | 25%  |
-| Qualidade da análise teórica de HTTPS (Atv. 6 e Q. 11) | 10%  |
-| Organização e clareza do relatório                    | 10%  |
-
-> 📝 **Nota sobre avaliação.** Este fluxo tem **peso equivalente** ao Fluxo A. A ausência da inspeção prática de HTTPS é compensada pela análise teórica explícita (Atividade 6 pergunta 6.3, Atividade 9 e Questão 11).
-
 ---
 
 ## 6. Encerramento
 
-Este fluxo **não exige remoção de certificado**, porque você **não instalou nenhum**. Ainda assim, há limpezas a fazer:
 
 1. **Reabilitar** o HTTPS-First Mode / HTTPS-Only Mode no navegador (passos inversos de 2.2), para que seu dia-a-dia volte a priorizar conexões seguras.
 2. **Fechar o Fiddler** (ou `mitmproxy` / HTTP Toolkit) para liberar a porta de proxy e remover qualquer configuração de proxy do navegador.
