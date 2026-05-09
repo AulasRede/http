@@ -3,7 +3,6 @@
 > **Disciplina:** Redes de Computadores
 > **Professor:** Claudio Nunes
 > **Tópico:** Camada de Aplicação — Protocolos HTTP/1.1 e HTTP/2 sobre TLS
-> **Carga horária sugerida:** 3 horas-aula (laboratório supervisionado)
 
 Este documento contém a **fundamentação teórica** da atividade e direciona cada aluno para o roteiro prático apropriado, de acordo com seu nível de privilégio na máquina de laboratório.
 
