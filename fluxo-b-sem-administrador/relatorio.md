@@ -12,16 +12,16 @@
 
 | Campo                                       | Valor                                         |
 |---------------------------------------------|-----------------------------------------------|
-| Nome                                        | [seu nome completo]                           |
-| RA                                          | [seu RA]                                      |
+| Nome                                        | Alexandre Silva João Lourenço                 |
+| RA                                          | 0050482413030                                 |
 | Disciplina                                  | Redes de Computadores                         |
-| Turma                                       | [sua turma]                                   |
-| Data                                        | [data da realização]                          |
+| Turma                                       | ADS ºCiclo noite                              |
+| Data                                        | 15/05/2026                                    |
 | Fluxo                                       | **B — Aluno sem privilégio de administrador** |
-| SO utilizado                                | [Windows 10/11]                               |
+| SO utilizado                                | Windows 11                                    |
 | Ferramenta de proxy                         | Fiddler Classic per-user                      |
-| Navegador(es)                               | [Chrome 124 / Firefox 125 / ...]              |
-| HTTPS-First Mode / HTTPS-Only desabilitado? | [sim / não]                                   |
+| Navegador(es)                               | Chrome 124                                    |
+| HTTPS-First Mode / HTTPS-Only desabilitado? | não                                           |
 
 ---
 
